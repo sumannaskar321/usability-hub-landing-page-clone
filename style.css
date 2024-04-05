@@ -345,3 +345,19 @@ footer {
 	justify-content: center;
 	gap: 30px;
 }
+
+/* madeby subfooter */
+
+.madeby-subfooter {
+	background-color: #dee7f2;
+	padding: var(--padding-inline-section);
+	text-align: center;
+}
+.madeby-subfooter p {
+	color: var(--primary-text-color);
+
+}
+.madeby-subfooter p span {
+	color: #dd6361;
+	font-weight: 600;
+}
